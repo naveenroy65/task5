@@ -6,7 +6,7 @@ Deploy and manage apps in Kubernetes using **Minikube**, **kubectl**, and **Dock
 
 ---
 
-## 🛠 Tools Required
+## Tools Required
 
 * [Docker](https://docs.docker.com/get-docker/)
 * [Minikube](https://minikube.sigs.k8s.io/docs/start/)
