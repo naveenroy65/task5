@@ -123,7 +123,7 @@ You will successfully:
 <br>
 <br>
 <br>
-<img width="1916" height="937" alt="image" src="https://github.com/user-attachments/assets/b46c900e-bbe2-4634-9b42-2a56669ba249" />
+<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/5e5f26a8-c793-42ad-b3bc-6d76a099ccee" />
 <br>
 <br>
 <br>
